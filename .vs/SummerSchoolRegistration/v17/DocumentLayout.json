@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\ogrenciguncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:ogrenciguncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\ogrenciguncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:ogrenciguncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|c:\\users\\mehmetaklan\\source\\repos\\summerschoolregistration\\ogrencisil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:ogrencisil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\ogrencilistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:ogrencilistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|c:\\users\\mehmetaklan\\source\\repos\\summerschoolregistration\\ogrencisil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:ogrencisil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D43ED-8603-4316-BD69-A461EDB7818F}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D43ED-8603-4316-BD69-A461EDB7818F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D43ED-8603-4316-BD69-A461EDB7818F}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D43ED-8603-4316-BD69-A461EDB7818F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\derslerlistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:derslerlistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CBB025D6-552F-4BD9-9856-6D794DDA6AA1}|C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\MasterPage.master",
+              "RelativeDocumentMoniker": "MasterPage.master",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\MasterPage.master",
+              "RelativeToolTip": "MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T06:28:56.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciSil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciSil.aspx.cs",
+              "RelativeDocumentMoniker": "OgrenciSil.aspx.cs",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciSil.aspx.cs",
+              "RelativeToolTip": "OgrenciSil.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:06:54.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciGuncelle.aspx",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciGuncelle.aspx",
+              "RelativeDocumentMoniker": "OgrenciGuncelle.aspx",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciGuncelle.aspx",
+              "RelativeToolTip": "OgrenciGuncelle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T15:38:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciGuncelle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciGuncelle.aspx.cs",
+              "RelativeDocumentMoniker": "OgrenciGuncelle.aspx.cs",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciGuncelle.aspx.cs*",
+              "RelativeToolTip": "OgrenciGuncelle.aspx.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:04:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciListesi.aspx",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciListesi.aspx",
+              "RelativeDocumentMoniker": "OgrenciListesi.aspx",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciListesi.aspx",
+              "RelativeToolTip": "OgrenciListesi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T15:38:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrenciSil.aspx",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciSil.aspx",
+              "RelativeDocumentMoniker": "OgrenciSil.aspx",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\OgrenciSil.aspx",
+              "RelativeToolTip": "OgrenciSil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-16T12:06:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DerslerListesi.aspx",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DerslerListesi.aspx",
+              "RelativeDocumentMoniker": "DerslerListesi.aspx",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DerslerListesi.aspx",
+              "RelativeToolTip": "DerslerListesi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T13:29:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DataAccessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DataAccessLayer\\Baglanti.cs",
+              "RelativeToolTip": "DataAccessLayer\\Baglanti.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:40:36.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALDers.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DataAccessLayer\\DALDers.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALDers.cs",
+              "ToolTip": "C:\\Users\\mehmetaklan\\source\\repos\\SummerSchoolRegistration\\DataAccessLayer\\DALDers.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALDers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:40:33.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
